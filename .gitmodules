@@ -1,0 +1,9 @@
+[submodule "schematic"]
+	path = schematic
+	url = https://github.com/tibersam/lightcontroller-stm32f407
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/tibersam/lightcontroller-stm32f407
+[submodule "kodi-plugin"]
+	path = kodi-plugin
+	url = https://github.com/tibersam/script.lightcontroll
