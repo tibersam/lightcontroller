@@ -7,3 +7,6 @@
 [submodule "kodi-plugin"]
 	path = kodi-plugin
 	url = https://github.com/tibersam/script.lightcontroll
+[submodule "button-box"]
+	path = button-box
+	url = https://github.com/tibersam/Button-Box-stm32f103
